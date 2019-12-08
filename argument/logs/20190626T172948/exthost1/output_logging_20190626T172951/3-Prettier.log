@@ -1,0 +1,40 @@
+6/26/2019, 5:43:46 PM:
+----------------------
+Unexpected token (/home/aamir/buswala/src/screens/Home.js:312:5)
+  310 |     borderRadius: 50,
+  311 |     backgroundColor: "#403E3E"
+> 312 |   }}
+      |     ^
+
+6/26/2019, 5:44:24 PM:
+----------------------
+Unexpected token (/home/aamir/buswala/src/screens/Home.js:321:5)
+  319 |     borderRadius: 50,
+  320 |     backgroundColor: "#403E3E"
+> 321 |   }}
+      |     ^
+
+6/26/2019, 5:44:26 PM:
+----------------------
+Unexpected token (/home/aamir/buswala/src/screens/Home.js:321:5)
+  319 |     borderRadius: 50,
+  320 |     backgroundColor: "#403E3E"
+> 321 |   }}
+      |     ^
+
+6/26/2019, 5:45:22 PM:
+----------------------
+Unexpected token (/home/aamir/buswala/src/screens/Home.js:323:5)
+  321 |     borderRadius: 50,
+  322 |     backgroundColor: "#403E3E"
+> 323 |   }}
+      |     ^
+
+6/26/2019, 5:45:23 PM:
+----------------------
+Unexpected token (/home/aamir/buswala/src/screens/Home.js:323:5)
+  321 |     borderRadius: 50,
+  322 |     backgroundColor: "#403E3E"
+> 323 |   }}
+      |     ^
+

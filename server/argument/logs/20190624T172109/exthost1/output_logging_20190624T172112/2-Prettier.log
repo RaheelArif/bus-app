@@ -1,0 +1,11 @@
+6/24/2019, 6:36:57 PM:
+----------------------
+Unexpected token, expected "," (/home/aamir/buswala/server/routes/msgsRouter.js:17:80)
+  15 |     res.setHeader("content-type", "application/json");
+  16 |     res.statusCode = 200;
+> 17 |     res.json({ success: true, message: "You have not sent any message",messages.messages });
+     |                                                                                ^
+  18 |     return ;
+  19 |   });
+  20 | });
+

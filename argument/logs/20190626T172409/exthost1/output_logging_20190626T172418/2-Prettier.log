@@ -1,0 +1,11 @@
+6/26/2019, 5:27:22 PM:
+----------------------
+Unexpected token, expected "," (/home/aamir/buswala/src/screens/Home.js:58:13)
+  56 |               flexWrap: "wrap"
+  57 |           <Button
+> 58 |             title='Hire'
+     |             ^
+  59 |             onPress={() => {
+  60 |               this.props.auth.isAuthenticated
+  61 |                 ? this.setState({ overlay1: true })
+

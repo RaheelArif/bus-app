@@ -1,0 +1,2 @@
+[2019-06-24 21:43:10.787] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/aamir/buswala/server/.vscode'
+[2019-06-24 21:43:31.275] [renderer1] [error] net::ERR_NAME_NOT_RESOLVED: {1}

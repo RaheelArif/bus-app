@@ -1,0 +1,2 @@
+[2019-06-25 05:09:08.886] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/aamir/buswala/server/.vscode'
+[2019-06-25 05:09:13.912] [renderer1] [warning] UNRESPONSIVE extension host, 'esbenp.prettier-vscode' took 95% of 257.679ms, saved PROFILE here: '/tmp/exthost-1613a8.cpuprofile' [{"id":"esbenp.prettier-vscode","total":245063,"percentage":95},{"id":"program","total":6147,"percentage":2},{"id":"self","total":4208,"percentage":2}]

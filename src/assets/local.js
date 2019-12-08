@@ -1,0 +1,33 @@
+var local = [
+  "Lyallpur Town",
+  "Madina Town",
+  "Jinnah Town",
+  "Iqbal town",
+  "Chak Jhumra Town",
+  "Jaranwala Town",
+  "Samundri Town",
+  "Tandlianwala Town",
+  "Noorpur",
+  "Millat Town",
+  "Muslim Town",
+  "Amin Town",
+  "Gulbahar Colony",
+  "Batala Colony",
+  "People's Colony",
+  "Gulistan Colony",
+  "Ghulam Muhammadabad",
+  "Nishatabad",
+  "Bhaiwala",
+  "Malikpur",
+  "Manawala",
+  "Yousaf Town",
+  "Motorway City",
+  "Miani",
+  "Gobind Pura",
+  "Gulshan-E-Makkah",
+  "D-Type Colony",
+  "Samanabad",
+  "Gatwala"
+];
+
+export default local

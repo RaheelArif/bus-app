@@ -1,0 +1,110 @@
+6/26/2019, 10:17:49 AM:
+-----------------------
+Unexpected token (/home/aamir/buswala/src/screens/Home.js:71:11)
+  69 |                 backgroundColor: "#403E3E"
+  70 |               }}
+> 71 |           </View>
+     |           ^
+  72 |           <View
+  73 |             style={{
+  74 |               flex: 1,
+
+6/26/2019, 10:50:04 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:19:21)
+  17 |         <ListItem
+  18 |             chevron
+> 19 |             onPress={}
+     |                     ^
+  20 |             title="Rate Us"/>
+  21 |       </View>
+  22 |     );
+
+6/26/2019, 10:50:05 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:19:21)
+  17 |         <ListItem
+  18 |             chevron
+> 19 |             onPress={}
+     |                     ^
+  20 |             title="Rate Us"/>
+  21 |       </View>
+  22 |     );
+
+6/26/2019, 10:50:11 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:19:21)
+  17 |         <ListItem
+  18 |             chevron
+> 19 |             onPress={}
+     |                     ^
+  20 |             title="Rate Us"/>
+  21 |       </View>
+  22 |     );
+
+6/26/2019, 10:53:26 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:28:21)
+  26 |         <ListItem
+  27 |             chevron
+> 28 |             onPress={}
+     |                     ^
+  29 |             title="Rate Us"/>
+  30 |                     <RatingModal
+  31 |           showModal={this.state.showModal}
+
+6/26/2019, 10:53:28 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:28:21)
+  26 |         <ListItem
+  27 |             chevron
+> 28 |             onPress={}
+     |                     ^
+  29 |             title="Rate Us"/>
+  30 |                     <RatingModal
+  31 |           showModal={this.state.showModal}
+
+6/26/2019, 10:53:29 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:28:21)
+  26 |         <ListItem
+  27 |             chevron
+> 28 |             onPress={}
+     |                     ^
+  29 |             title="Rate Us"/>
+  30 |                     <RatingModal
+  31 |           showModal={this.state.showModal}
+
+6/26/2019, 10:53:30 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:28:21)
+  26 |         <ListItem
+  27 |             chevron
+> 28 |             onPress={}
+     |                     ^
+  29 |             title="Rate Us"/>
+  30 |                     <RatingModal
+  31 |           showModal={this.state.showModal}
+
+6/26/2019, 10:53:30 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:28:21)
+  26 |         <ListItem
+  27 |             chevron
+> 28 |             onPress={}
+     |                     ^
+  29 |             title="Rate Us"/>
+  30 |                     <RatingModal
+  31 |           showModal={this.state.showModal}
+
+6/26/2019, 10:55:12 AM:
+-----------------------
+JSX attributes must only be assigned a non-empty expression (/home/aamir/buswala/src/screens/DrawerContent.js:29:21)
+  27 |         <ListItem
+  28 |             chevron
+> 29 |             onPress={}
+     |                     ^
+  30 |             title="Rate Us"/>
+  31 |         <RatingModal
+  32 |           showModal={this.state.showModal}
+
